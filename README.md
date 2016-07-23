@@ -7,3 +7,6 @@ Simply
 `go get github.com/Gacnt/gpsoauth-go`
 
 Look at the Test for exact usage on how to work it.
+
+
+Largely inspired by: [gpsoauthnode](https://github.com/billyriantono/gpsoauthnode)
